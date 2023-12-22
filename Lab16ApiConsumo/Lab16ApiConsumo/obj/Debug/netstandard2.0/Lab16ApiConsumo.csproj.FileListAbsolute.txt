@@ -1,0 +1,15 @@
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\bin\Debug\netstandard2.0\Lab16ApiConsumo.deps.json
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\bin\Debug\netstandard2.0\Lab16ApiConsumo.dll
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\bin\Debug\netstandard2.0\ref\Lab16ApiConsumo.dll
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\bin\Debug\netstandard2.0\Lab16ApiConsumo.pdb
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.csproj.AssemblyReference.cache
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.AssemblyInfoInputs.cache
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.AssemblyInfo.cs
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.csproj.CoreCompileInputs.cache
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.dll
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\refint\Lab16ApiConsumo.dll
+C:\Users\Vane\source\repos\Lab16ApiConsumo\Lab16ApiConsumo\Lab16ApiConsumo\obj\Debug\netstandard2.0\Lab16ApiConsumo.pdb
